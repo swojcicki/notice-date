@@ -13,8 +13,8 @@
     "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1",
-    "serve": "^11.3.1"
+    "react-scripts": "5.0.1",
+    "serve": "^14.1.2"
   },
   "scripts": {
     "git-info-local": "echo export default \"{\\\"logMessage\\\": \\\"$(git rev-parse --short HEAD)\\\"}\"  > src/_git_commit.js",
